@@ -1,6 +1,8 @@
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/earthcube2020/ec20_busecke_etal/master?filepath=busecke_abernathey_earthcube2020.ipynb)
 
-# ec20_busecke_etal: CMIP6 without the interpolation: Grid-native analysis with Pangeo in the cloud.
+# ec20_busecke_etal 
+
+## CMIP6 without the interpolation: Grid-native analysis with Pangeo in the cloud.
 
 *Julius Busecke, Ryan Abernathey*
 
