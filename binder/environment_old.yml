@@ -1,0 +1,22 @@
+name: earthcube-notebook-jbusecke
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - cftime
+  - fsspec
+  - gcsfs
+  - matplotlib
+  - nc-time-axis
+  - netcdf4
+  - pangeo-notebook=2020.05.04
+  - pip
+  - proplot
+  - s3fs
+  - watermark
+  - zarr
+  - pip:
+      - git+https://github.com/jbusecke/cmip6_preprocessing.git@22bed2386dcbea32d430c7c88fad8725fa51ec36
+      - git+https://github.com/xgcm/xgcm.git@a4a94980fc23556a532141cf29a43379189e547a
+      - git+https://github.com/NCAR/intake-esm.git@ab06b86756548498dbd25a4320f19f9d80fc02ae
+      
