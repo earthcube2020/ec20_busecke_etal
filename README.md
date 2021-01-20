@@ -1,4 +1,6 @@
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/earthcube2020/ec20_busecke_etal/master?filepath=busecke_abernathey_earthcube2020.ipynb)
+[![Speakerdeck](https://img.shields.io/badge/SPEAKERDECK-Slides-<COLOR>.svg)](https://speakerdeck.com/jbusecke/earthcube-2020-cmip6-without-the-interpolation-grid-native-analysis-with-pangeo-in-the-cloud)
+
 
 # ec20_busecke_etal 
 
